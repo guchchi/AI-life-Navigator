@@ -106,4 +106,4 @@ Today's students and builders face a unique set of challenges:
 ## 🌍 Ecosystem Philosophy
 *AI Life Navigator* is built under the philosophy that AI shouldn't just write code or text for us—it should act as a strategic mentor that empowers human execution. 
 
-Built with intention. Part of [Ayush Paul Labs](https://ayushpaul.vercel.app).
+Built with intention. Part of [Ayush Paul Labs](https://ayushpaul.vercel.app/lab).

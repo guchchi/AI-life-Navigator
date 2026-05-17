@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col text-center md:text-left mb-4 md:mb-0">
           <span className="font-mono text-label-md text-on-surface-variant">© 2026 Ayush Paul</span>
           <span className="font-mono text-label-sm text-outline-variant mt-1">
-            AI Life Navigator — Powered by Gemini AI. Part of <a href="https://ayushpaul.vercel.app" target="_blank" rel="noreferrer" className="text-primary hover:underline">Ayush Paul Labs</a>.
+            AI Life Navigator — Powered by Gemini AI. Part of <a href="https://ayushpaul.vercel.app/lab" target="_blank" rel="noreferrer" className="text-primary hover:underline">Ayush Paul Labs</a>.
           </span>
         </div>
         <ul className="flex gap-6 mt-4 md:mt-0">
