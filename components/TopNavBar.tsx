@@ -30,7 +30,7 @@ export default function TopNavBar() {
 
         {/* Right: Parent Ecosystem */}
         <a 
-          href="https://ayushpaul.vercel.app/lab" 
+          href="https://ayushpaul.vercel.app/products" 
           target="_blank" 
           rel="noreferrer" 
           className="font-label-md text-label-md px-4 py-2 rounded-lg bg-surface-container border border-outline-variant/30 text-on-surface hover:border-primary/50 hover:text-primary transition-colors duration-300 flex items-center gap-2"
