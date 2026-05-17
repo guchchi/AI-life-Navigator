@@ -8,7 +8,7 @@ export default function AboutCreator() {
             <img 
               alt="Ayush Paul Profile" 
               className="w-full h-full object-cover" 
-              src="/ayush-paul-awards.png"
+              src="/ayush-paul-selfie.jpg"
             />
             <div className="absolute inset-0 rounded-full shadow-[inset_0_0_10px_rgba(255,255,255,0.1)] pointer-events-none"></div>
           </div>

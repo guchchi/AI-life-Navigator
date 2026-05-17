@@ -12,7 +12,7 @@ export default function Contact() {
               <img 
                 alt="Ayush Paul" 
                 className="w-full h-full object-cover" 
-                src="/ayush-paul-awards.png"
+                src="/ayush-paul-selfie.jpg"
               />
             </div>
             
