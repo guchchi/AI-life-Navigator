@@ -60,11 +60,18 @@ Today's students and builders face a unique set of challenges:
 ---
 
 ## 📸 Screenshots
-> *Add images to the `/public/screenshots` folder.*
-- **Landing Page & Creator Profile:** `![Landing Page](/screenshots/hero.png)`
-- **Generated Roadmap Timeline:** `![Roadmap Output](/screenshots/roadmap.png)`
-- **Creator Details:** `![Creator Details](/screenshots/creator.png)`
-- **Visual Timeline:** `![Visual Timeline](/screenshots/timeline.png)`
+
+### 🏠 Landing Page & Dashboard
+![Landing Page](public/screenshots/hero.png)
+
+### 🧭 About Page & Core Mission
+![About Page](public/screenshots/about.png)
+
+### 🗺️ Product Roadmap & Timeline
+![Product Roadmap](public/screenshots/roadmap.png)
+
+### 🔐 Privacy Policy
+![Privacy Policy](public/screenshots/privacy.png)
 
 ---
 
