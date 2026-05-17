@@ -94,6 +94,18 @@ Today's students and builders face a unique set of challenges:
    GEMINI_API_KEY="your-api-key-here"
    ```
 
+### ⚡ Vercel Deployment & Environment Setup
+
+To deploy the **AI Life Navigator** to Vercel and connect the Gemini API, follow these simple steps:
+
+1. **Import the Project:** Go to the [Vercel Dashboard](https://vercel.com/dashboard) and click **Add New > Project**, then import your `AI-life-Navigator` GitHub repository.
+2. **Configure Environment Variables:**
+   - Under the **Environment Variables** section in the deployment wizard (or by going to **Settings > Environment Variables** after importing):
+   - Add a new variable:
+     - **Key:** `GEMINI_API_KEY`
+     - **Value:** *Your actual Google Gemini API Key*
+3. **Deploy:** Click **Deploy**. Vercel will build the application securely. The serverless API routes will safely request the Gemini API without exposing your key to the browser!
+
 4. Start Development Server:
    ```bash
    npm run dev
