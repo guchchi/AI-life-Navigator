@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-on-background font-body-md text-body-md antialiased min-h-screen flex flex-col relative overflow-x-hidden selection:bg-primary/30 selection:text-primary-fixed;
+  }
+}
+
+.material-symbols-outlined {
+  font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+}
+
+/* Subtle global glow effects */
+.ambient-glow-primary {
+  background: radial-gradient(circle at center, rgba(86, 141, 255, 0.08) 0%, transparent 70%);
+}
+.ambient-glow-secondary {
+  background: radial-gradient(circle at center, rgba(87, 27, 193, 0.08) 0%, transparent 70%);
+}
+
+/* Custom scrollbar for webkit */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #121414; 
+}
+::-webkit-scrollbar-thumb {
+  background: #343535; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #424655; 
+}
