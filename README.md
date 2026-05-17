@@ -64,6 +64,9 @@ Today's students and builders face a unique set of challenges:
 ### 🏠 Landing Page & Dashboard
 ![Landing Page](public/screenshots/hero.png)
 
+### 📋 Generated Execution Roadmap & Timeline
+![Generated Roadmap](public/screenshots/timeline.png)
+
 ### 🧭 About Page & Core Mission
 ![About Page](public/screenshots/about.png)
 
