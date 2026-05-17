@@ -7,7 +7,7 @@ export default function CreatorPage() {
       {/* Hero Section */}
       <section className="flex flex-col md:flex-row gap-8 items-center md:items-start mb-16 text-center md:text-left">
         <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-surface-container-high shadow-2xl shrink-0">
-          <img src="/creator.png" alt="Ayush Paul" className="w-full h-full object-cover" />
+          <img src="/ayush-paul-awards.png" alt="Ayush Paul" className="w-full h-full object-cover" />
         </div>
         <div className="flex flex-col justify-center h-full pt-4">
           <h1 className="font-display text-display text-on-surface mb-2">Ayush Paul</h1>
